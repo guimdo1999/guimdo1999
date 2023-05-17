@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Guilherme Matos de Oliveira, i'm a Full Stack Developer.
-- 👀 I’m interested in games and Tv Series!
+- 👋 Hi, I’m Guilherme Matos de Oliveira, i'm a Full Stack Developer and a Researcher at CEI in Brazil.
+- 📖 I'm currently learning more on C/C++ to interact with bluetooth and wi-fi devices.
+
 - 💞️ I’m looking to collaborate on projects involving JS and PHP!(React and node too!)
 - 📫 guimdo1999@hotmail.com
 
